@@ -1,0 +1,16 @@
+build
+dist
+*_env
+*-env
+.idea
+*.DS_Store
+.cproject
+org.eclipse*
+*.pyc
+*.project
+*.pyo
+/.settings
+src/*.egg-info
+.classpath
+code/java/its/p2/private/**
+
