@@ -13,4 +13,5 @@ org.eclipse*
 src/*.egg-info
 .classpath
 code/java/its/p2/private/**
-
+**/target
+**/.class
