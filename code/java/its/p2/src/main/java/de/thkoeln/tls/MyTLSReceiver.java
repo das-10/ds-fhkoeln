@@ -1,3 +1,7 @@
+/**
+ * @author sereni Dongmo
+ */
+
 package de.thkoeln.tls;
 
 import java.io.BufferedReader;

@@ -1,3 +1,7 @@
+/**
+ * @author sereni Dongmo
+ */
+
 package de.thkoeln.dbapp;
 
 import static org.junit.Assert.*;
