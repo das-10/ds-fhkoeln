@@ -1,5 +1,8 @@
 base:
   '*':
-    - mysql
+    - postgres
     - maven
     - sun-java
+    - tomcat
+    - eclipse
+    - gnome-desktop
